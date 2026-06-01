@@ -4,7 +4,7 @@
 
 # EXP-01 Mathematical Operations on Pandas Series
 
-# Aim:
+# Aim: 
 
 perform multiplication and division operations between two Pandas Series.
 
